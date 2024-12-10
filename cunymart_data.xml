@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Inventory>
+  <Item>
+    <Category>Electronics</Category>
+    <Item_Name>Smartphone</Item_Name>
+    <Item_ID>101</Item_ID>
+    <Brand>TechBrand</Brand>
+    <Price>699.99</Price>
+    <Variation_ID>101-A</Variation_ID>
+    <Variation_Details>Color: Black, Storage: 64GB</Variation_Details>
+  </Item>
+  <Item>
+    <Category>Electronics</Category>
+    <Item_Name>Smartphone</Item_Name>
+    <Item_ID>101</Item_ID>
+    <Brand>TechBrand</Brand>
+    <Price>699.99</Price>
+    <Variation_ID>101-B</Variation_ID>
+    <Variation_Details>Color: White, Storage: 128GB</Variation_Details>
+  </Item>
+</Inventory>
